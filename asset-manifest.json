@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/chatReactApp/static/js/main.cba499d8.chunk.js",
+    "main.js.map": "/chatReactApp/static/js/main.cba499d8.chunk.js.map",
+    "runtime-main.js": "/chatReactApp/static/js/runtime-main.d80a553d.js",
+    "runtime-main.js.map": "/chatReactApp/static/js/runtime-main.d80a553d.js.map",
+    "static/js/2.943564bc.chunk.js": "/chatReactApp/static/js/2.943564bc.chunk.js",
+    "static/js/2.943564bc.chunk.js.map": "/chatReactApp/static/js/2.943564bc.chunk.js.map",
+    "index.html": "/chatReactApp/index.html",
+    "precache-manifest.4d5a2d7b0be3df655fafd5519fc76a39.js": "/chatReactApp/precache-manifest.4d5a2d7b0be3df655fafd5519fc76a39.js",
+    "service-worker.js": "/chatReactApp/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d80a553d.js",
+    "static/js/2.943564bc.chunk.js",
+    "static/js/main.cba499d8.chunk.js"
+  ]
+}
